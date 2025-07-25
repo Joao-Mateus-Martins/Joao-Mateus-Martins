@@ -11,7 +11,7 @@
 <h2>Minhas Redes sociais 📧 <h2/>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
+<a href="17991237587">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
 <h2>Tecnologias e Liguagens que eu ja tenho pratica ✅<h2/> 
  
