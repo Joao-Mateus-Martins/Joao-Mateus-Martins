@@ -6,7 +6,7 @@
 
 <img width="350" height="350" alt="programador-trabalhando-1" src="https://github.com/user-attachments/assets/05d51f19-10cb-47fa-9fd5-9026ee6bd990" />
 
-<p>Um pouco sobre mim !👍 Sou apaixonado por programação front-end  e desenvolvimento de sites web 💡. Atualmente estudando tecnologias populares como HTML, CSS e JavaScript 🖥️ , Mas Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. Estou sempre aprendendo novas tendências e aprimorando minhas habilidades para criar projetos incríveis 🚀. <p/>
+<p>Um pouco sobre mim !👍 Sou apaixonado por programação e tecnologias atualmente na area de front-end  desenvolvendo sites web 💡. Atualmente estudando tecnologias populares como HTML, CSS e JavaScript 🖥️ , Mas Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. Estou sempre aprendendo novas tendências e aprimorando minhas habilidades para criar projetos incríveis 🚀. <p/>
 
 <h2>Minhas Redes sociais 📧 <h2/>
 
