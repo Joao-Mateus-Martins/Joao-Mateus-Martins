@@ -8,10 +8,11 @@
 
 <p> Um pouco sobre mim !👍 Sou apaixonado por programação e tecnologia atualmente na area de front-end  desenvolvendo sites web 💡. Atualmente estudando e aprimorando meus conhecimentos em tecnologias populares como HTML, CSS, JavaScript, Typescript entre outras🖥️, Mas já Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. <p/>
 
-<h2>Minhas Redes sociais 📧 <h2/>
+<h2>Minhas Redes sociais 📧 E meios de Comunicação<h2/>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.link/qj54nm">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
+<a href="joaomateusmartinsalves3556@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 <h2>Tecnologias e Liguagens que eu ja tenho pratica ✅<h2/> 
  
