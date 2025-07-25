@@ -30,10 +30,12 @@
 
  <h2> 📊Minhas  Estatísticas no Github: </h2>
  
-![Joao-Mateus-Martins stats](https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=holi ) 
-[![ Joao-Mateus-Martins Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img> ![Joao-Mateus-Martins stats](https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=holi )</img>
+<img height=200>[![ Joao-Mateus-Martins Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
 <br>
 <br>
 <h3>Contador de visitas 👀</h3>
 
 ![](https://komarev.com/ghpvc/?username=Joao-Mateus-Martins-username&color=green)
+
+
