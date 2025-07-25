@@ -1,19 +1,19 @@
- <h1>👐 Olá! Eu sou o João Mateus 😎</h1>
+<h1 align= "center">👐 Olá! Eu sou o João Mateus 😎</h1>
  
-  <h2>Desenvolvedor Front-End 💻</h2>
+  <h2 align= "center">Desenvolvedor Front-End 💻</h2>
      
   
 
-<img width="350" height="350" alt="programador-trabalhando-1" src="https://github.com/user-attachments/assets/05d51f19-10cb-47fa-9fd5-9026ee6bd990" />
+<p align= "center"><img width="350" height="350" alt="programador-trabalhando-1" src="https://github.com/user-attachments/assets/05d51f19-10cb-47fa-9fd5-9026ee6bd990" /> </p>
 
-<p>Um pouco sobre mim !👍 Sou apaixonado por programação e tecnologias atualmente na area de front-end  desenvolvendo sites web 💡. Atualmente estudando tecnologias populares como HTML, CSS e JavaScript 🖥️ , Mas Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. Estou sempre aprendendo novas tendências e aprimorando minhas habilidades para criar projetos incríveis 🚀. <p/>
+<p> Um pouco sobre mim !👍 Sou apaixonado por programação e tecnologia atualmente na area de front-end  desenvolvendo sites web 💡. Atualmente estudando e aprimorando meus conhecimentos em tecnologias populares como HTML, CSS, JavaScript, Typescript entre outras🖥️, Mas já Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. <p/>
 
 <h2>Minhas Redes sociais 📧 <h2/>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 
-<h2>Tecnologias que eu ja tenho pratica ✅<h2/> 
+<h2>Tecnologias e Liguagens que eu ja tenho pratica ✅<h2/> 
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
@@ -25,6 +25,7 @@
  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
  <h2> 📊Minhas  Estatísticas no Github: </h2>
  
