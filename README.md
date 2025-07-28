@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.link/qj54nm">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
-<a href="joaomateusmartinsalves3556@gmail.com?subject=ola+me+envie+uma+mnesagem+por+aqui">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="mailto:joaomateusmartinsalves3556@gmail.com?subject=Ola%20estou%20le%20enviando%20uma%20mensagem&body=">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 <h2>Tecnologias e Liguagens que eu ja tenho pratica ✅<h2/> 
  
