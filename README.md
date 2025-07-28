@@ -4,7 +4,7 @@
      
   
 
-<p align= "center"><img width="350" height="350" alt="programador-trabalhando-1" src="https://github.com/user-attachments/assets/05d51f19-10cb-47fa-9fd5-9026ee6bd990" /> </p>
+<p align= "center"><img width="300" height="300" alt="programador-trabalhando-1" src="https://github.com/user-attachments/assets/05d51f19-10cb-47fa-9fd5-9026ee6bd990" /> </p>
 
 <p> Um pouco sobre mim !👍 Sou apaixonado por programação e tecnologia atualmente na area de front-end  desenvolvendo sites web 💡. Atualmente estudando e aprimorando meus conhecimentos em tecnologias populares como HTML, CSS, JavaScript, Typescript entre outras🖥️, Mas já Tenho experiência em criar interfaces responsivas e intuitivas, sempre buscando oferecer a melhor experiência para os usuários 😉. Meu foco é transformar ideias em realidade através de códigos limpos e eficientes 👌. <p/>
 
