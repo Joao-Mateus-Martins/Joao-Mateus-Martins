@@ -12,7 +12,6 @@
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.link/qj54nm">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
-<a href="joaomateusmartinsalves3556@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <a href="https://www.instagram.com/joao_mateus.m.a/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 <h2>Tecnologias e Liguagens que eu ja tenho pratica ✅<h2/> 
@@ -28,15 +27,22 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
  <h2> 📊Minhas  Estatísticas no Github: </h2>
- 
-<img> ![Joao-Mateus-Martins stats](https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=holi )</img>
-<img height=200>[![ Joao-Mateus-Martins Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</img>
+<div>
+  <a href="https://github.com/anywer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark"/>
+</div>
+
 <br>
 <br>
 <h3>Contador de visitas 👀</h3>
 
 ![](https://komarev.com/ghpvc/?username=Joao-Mateus-Martins-username&color=green)
+<br>
+
+<h3>💨Cada linha de código é uma oportunidade de criar algo incrível. Continue programando, o seu próximo projeto pode mudar o mundo 🗺️.</h3>
 
 
