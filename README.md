@@ -32,8 +32,8 @@
  <h2> 📊Minhas  Estatísticas no Github: </h2>
 <div>
   <a href="https://github.com/Joao-Mateus-Martins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dracula"/>   
    
 </div>
 
