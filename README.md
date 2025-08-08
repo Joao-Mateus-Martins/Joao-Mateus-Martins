@@ -33,7 +33,7 @@
 <div>
   <a href="https://github.com/Joao-Mateus-Martins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Mateus-Martins&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dracula"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Mateus-Martins&layout=donut&theme=dark"/>   
    
 </div>
 
