@@ -22,8 +22,8 @@ I’m currently improving my skills in **React, TypeScript, Node.js, and Full St
    <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-martins-alves-454745290/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  
 
+  <p></p>
   <a href="https://instagram.com/dev.jm.web">
     <img src="https://img.shields.io/badge/Instagram-@DEV.JM.WEB-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
