@@ -56,21 +56,30 @@ Here are some of the projects I’ve developed while improving my skills in web 
 
 ### 🛍️ Easy Shopping
 
-E-commerce responsivo desenvolvido com foco em uma interface moderna, intuitiva e adaptada para diferentes dispositivos.
+Responsive e-commerce site developed with a focus on a modern, intuitive interface adapted for various devices.
 
 🔗 [Live Demo](https://easy-shopping-nu.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Easy-Shopping)
 
 ### 🚗 Car Store
 
-Site responsivo para apresentação e venda de veículos, desenvolvido com foco em design moderno, organização e experiência do usuário.
+
+Responsive website for showcasing and selling vehicles, developed with a focus on modern design, organization, and user experience.
 
 🔗 [Live Demo](https://projeto-loja-de-carros-eight.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Car-Store)
 
 ### 💱 Currency Converter
 
-Aplicação web para conversão de moedas, desenvolvida com JavaScript e integração com API para obtenção de dados atualizados.
+Web application for currency conversion, developed using JavaScript and integrated with an API to retrieve up-to-date data.
 
 🔗 [Live Demo](https://conversor-de-moedas-bay.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Currency-Converter)]
+
+---
+
+## 💼 Let's Work Together
+
+I'm open to freelance opportunities, website projects, and junior developer positions.
+
+📩 Feel free to reach out through LinkedIn, WhatsApp, or email.
 
 
 ---
