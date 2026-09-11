@@ -50,7 +50,6 @@ I’m currently improving my skills in **React, TypeScript, Node.js, and Full St
 
 
 ---
-
 ## 🚀 Featured Projects
 
 Here are some of the projects I’ve developed while improving my skills in web development.
@@ -59,16 +58,22 @@ Here are some of the projects I’ve developed while improving my skills in web 
 
 E-commerce responsivo desenvolvido com foco em uma interface moderna, intuitiva e adaptada para diferentes dispositivos.
 
+🔗 [Live Demo](https://easy-shopping-nu.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Easy-Shopping)
+
 ### 🚗 Car Store
 
 Site responsivo para apresentação e venda de veículos, desenvolvido com foco em design moderno, organização e experiência do usuário.
+
+🔗 [Live Demo](https://projeto-loja-de-carros-eight.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Car-Store)
 
 ### 💱 Currency Converter
 
 Aplicação web para conversão de moedas, desenvolvida com JavaScript e integração com API para obtenção de dados atualizados.
 
-##
+🔗 [Live Demo](https://conversor-de-moedas-bay.vercel.app/) • 💻 [View Code](https://github.com/Joao-Mateus-Martins/Currency-Converter)]
 
+
+---
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -87,6 +92,7 @@ Aplicação web para conversão de moedas, desenvolvida com JavaScript e integra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 🤖 AI-Assisted Development
 
